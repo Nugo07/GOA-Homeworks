@@ -1,0 +1,29 @@
+body {
+    background-color: #7a7878;
+    text-align: center;
+}
+div {
+    text-align: center;
+    text-transform: capitalize;
+}
+table#hobbys {
+    border-radius: 10%;
+    border-color: #333;
+    border-style: solid;
+    text-align: center;
+}
+table#gender {
+    border-radius: 10%;
+    border-color: #333;
+    border-style:  solid;
+}
+#maintable {
+    border-radius: 10%;
+    border-color: #ffffff;
+    border-style:  solid;
+}
+#email {
+    border-radius: 10%;
+    border-color: #333;
+    border-style: solid;
+}
