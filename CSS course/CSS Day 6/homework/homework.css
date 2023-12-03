@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(128, 152, 153);
+    text-transform: capitalize;
+    
+}
+#My-Photo {
+    width: 20%;
+    
+}
+#About-Me {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT',  'Trebuchet MS', sans-serif;
+    font-size: 50px;
+}
+#Info-Text {
+    text-align: center;
+    font-size: 30px;
+}
+.GitHub{
+    font-size: 200%;
+    text-decoration: none;
+    color: #FFFFFF;
+    text-align: center;
+}
+a {
+    text-align: center;
+}

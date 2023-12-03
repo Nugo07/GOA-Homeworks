@@ -1,0 +1,40 @@
+body {
+    background-color: #ffffff;
+}
+
+.header {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    background-color: black;
+
+}
+.header ul{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    display: inline;
+
+}
+
+.header ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.header ul li a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.header ul li a:hover {
+    border-bottom: 2px solid #ff0000;
+    color: rgb(255, 0, 0);
+}
+#name {
+    text-align: center;
+}
+img {
+    border-radius: 100px;
+}

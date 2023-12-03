@@ -1,0 +1,75 @@
+
+
+p , h2 , h3  {
+    text-align: center;
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+#GOA {
+    background-color: green;
+    font-size: 60px;
+    color: whitesmoke;
+    text-align: center;
+    text-shadow: 10px 0px 4px black;
+}
+
+.zoma {
+    font-size: 50px;
+    background-color: rgb(6, 80, 6);
+    color: whitesmoke;
+    text-align: center;
+    text-shadow: 10px 0px 4px black;
+}
+.linki {
+color: whitesmoke;
+text-align: center;
+text-decoration: none;
+font-size: 30px;
+
+}   
+/* CSS for hover effect on navigation links */
+.linki:hover {
+    color: #054710; /* Change text color on hover */
+    text-decoration: none; 
+}
+
+/* CSS for hover effect on social media icons */
+nav h3 img:hover {
+    transform: scale(1.1); /* Increase icon size on hover */
+}
+
+#foto {
+    border-radius: 50px;
+}
+
+.textD {
+    text-decoration: none;
+}
+
+
+
+
+.procent {
+    width: 1700px;
+    width: 100%;
+
+}
+
+footer {
+    color: #ffffff;
+    text-align: center;
+    background-color: red;
+    font-size: 20px;
+}
+#footer {
+    background-color: #333;
+    text-align: center;
+    color: #ffffff;
+}
+
+#matrix {
+    width: 1500px;
+    height: 700px;
+    
+}
