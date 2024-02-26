@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.silk {
+    width: 200px;
+    height: 200px;
+    background-color: #ffcc00;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+    transition: width 0.5s, height 0.5s;
+}
+
+.silk:hover {
+    width: 300px;
+    height: 300px;
+}
