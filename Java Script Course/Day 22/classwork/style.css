@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.parent {
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+}
+
+.parent > div {
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
